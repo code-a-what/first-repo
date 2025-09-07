@@ -1,4 +1,3 @@
-# first-repo
-# Learning GitHub
+# first-repo: Learning GitHub
 
 This is my first GitHub repository. I’m learning how to use GitHub step by step!
